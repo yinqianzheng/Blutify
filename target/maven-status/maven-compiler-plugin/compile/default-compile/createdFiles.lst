@@ -1,0 +1,8 @@
+com/blue/configuration/AppConfig.class
+com/blue/service/userService.class
+com/blue/dao/AbstractDAO.class
+com/blue/dao/UserDAO.class
+com/blue/model/User.class
+com/blue/controller/UserController.class
+com/blue/configuration/HibernateConfiguration.class
+com/blue/configuration/AppInitializer.class

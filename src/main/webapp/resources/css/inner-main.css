@@ -1,0 +1,80 @@
+body
+{
+	background-color: #222;
+	margin: auto;
+	color: white;
+	height: 100%;
+}
+
+.dropdown-menu {
+    color: white;
+    background-color: black;
+
+}
+
+.dropdown-item button {
+     background:none!important;
+     color:white;
+     border:none; 
+     padding:0!important;
+     font: inherit;
+     /*border is optional*/
+     border-bottom:1px solid #444; 
+     cursor: pointer;
+}
+
+  .table {
+    border: 0px !important;
+  }
+  .table td,
+  .table th {
+	color: white;
+	border:0px;
+  }
+  .table-bordered th,
+  .table-bordered td {
+    border: 0px solid #ddd !important;
+  }
+  .table hr
+	{
+		 display: block; 
+		 color:gray;
+	}
+.table thead th
+{
+	padding-left: 220px;
+	text-align: center;
+	border: 0px!important;
+}
+
+
+.nav{
+  text-align: center;
+}
+.navbar a 
+{
+	display:block;
+	text-align:center; 
+	text-decoration:underline; 
+	font-family: 'TitilliumText22LRegular', Arial, sans-serif;
+	font-weight:bold;
+	color:white;
+}
+.col-12
+{
+	width: 100%;
+	text-align: center;
+}
+
+.navrow
+{
+	margin: auto;
+	width: 100%;
+	text-align: center;
+}
+
+.img-big
+{
+	width:200px;
+	height:200px;
+}
